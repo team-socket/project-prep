@@ -29,4 +29,4 @@
   
    MVP
   
-  A backend server that will work as a proper game of trivia. Maybe a chatroom as well between different users playing amongst one another.
+  A backend server that will work as a proper game of trivia. Add in a level of Authorization/Authentication as well as a database to store user information, possibly save scores. Maybe a chatroom as well between different users playing amongst one another.
