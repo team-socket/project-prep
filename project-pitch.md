@@ -1,5 +1,20 @@
 # Midterm Project Pitch
 
+ ## Multiplayer Trivia
+ 
+  Summary of Idea
+  
+   Creates a multiplayer trivia game utilizing socket.io and an open Trivia database.
+    
+   What problem or pain point does it solve?
+   
+   Let us make a project without a Front-End and allows us to interact in real time with others. This will be utilizing an outside API for content. It will be making 
+    use of  socket.io.
+  
+   MVP
+  
+  A backend server that will work as a proper game of trivia. Add in a level of Authorization/Authentication as well as a database to store user information, possibly save scores. Maybe a chatroom as well between different users playing amongst one another.
+
 ## Stream and Watch
 
  Summary of Idea
@@ -15,18 +30,3 @@
  MVP
   
   A backend server that displays different videos in queue as well as a working chat room for useres to interact.
-  
- ## Multiplayer Trivia
- 
-  Summary of Idea
-  
-   Creates a multiplayer trivia game utilizing socket.io and an open Trivia database.
-    
-   What problem or pain point does it solve?
-   
-   Let us make a project without a Front-End and allows us to interact in real time with others. This will be utilizing an outside API for content. It will be making 
-    use of  socket.io.
-  
-   MVP
-  
-  A backend server that will work as a proper game of trivia. Add in a level of Authorization/Authentication as well as a database to store user information, possibly save scores. Maybe a chatroom as well between different users playing amongst one another.
