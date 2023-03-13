@@ -54,10 +54,10 @@
 ## Schema Diagram
 
  {
-  username: ,
-  password: ,
+  username: string,
+  password: string,
   role: basic/pro,
-  score: ,
-  rounds played: ,
-  accuracy: ,
+  score: number,
+  rounds played: number,
+  accuracy: number(percentage?),
  }
